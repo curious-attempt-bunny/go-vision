@@ -1,0 +1,1 @@
+Capture Go SGF data from webcam images of a game
